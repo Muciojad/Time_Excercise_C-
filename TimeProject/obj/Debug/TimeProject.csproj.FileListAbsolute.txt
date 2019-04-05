@@ -1,0 +1,6 @@
+C:\Users\Muciojad\source\repos\TimeProject\TimeProject\bin\Debug\TimeProject.dll
+C:\Users\Muciojad\source\repos\TimeProject\TimeProject\bin\Debug\TimeProject.pdb
+C:\Users\Muciojad\source\repos\TimeProject\TimeProject\obj\Debug\TimeProject.csprojResolveAssemblyReference.cache
+C:\Users\Muciojad\source\repos\TimeProject\TimeProject\obj\Debug\TimeProject.csproj.CoreCompileInputs.cache
+C:\Users\Muciojad\source\repos\TimeProject\TimeProject\obj\Debug\TimeProject.dll
+C:\Users\Muciojad\source\repos\TimeProject\TimeProject\obj\Debug\TimeProject.pdb
